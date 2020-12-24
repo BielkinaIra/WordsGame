@@ -5,7 +5,7 @@
 #
 # Name          : Bielkina Ira KM-04
 # Collaborators : <your collaborators>
-# Time spent    : <total time>
+# Time spent    : 6 h
 
 import math
 import random
